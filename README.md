@@ -1,2 +1,1 @@
-# Dannys-App-Releases
-Official downloads and updates for Danny's App
+Danny's App is an all-in-one Windows productivity hub featuring a fully customizable widget-based dashboard. Bring websites, entertainment, media, system utilities, and built-in productivity tools together in one seamless workspace. Built with C# and Windows Forms, it's designed to maximize screen space, simplify multitasking, and put everything you need in one place.
